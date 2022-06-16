@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenogenesis20" alt="xenogenesis20" /></a> </p>
 
-- 🔭 I’m currently working on **Fault Chase**
+- 🔭 I’m currently working on **a lot of interesting stuff with Visual Blasters :D **
 
 - 🕵🏻 I’m expanding my knowledge of **JavaScript, React, Python, SQL, NoSQL**
 
